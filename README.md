@@ -1,8 +1,10 @@
 # Proj.BMP180_alt_temp_rec
 ### Temperature and altitude recorder based on BMP180
 ### Materials
-  Arduino Uno/Mini/Micro      10K Resistor  
-  LCD1602                     BMP180
+- Arduino Uno/Mini/Micro      
+- 10K Resistor  
+- LCD1602
+- BMP180
 ### Libaries
   SFE_BMP180        EEPROM         LiquidCrystal
 ### Connection
